@@ -19,4 +19,6 @@ and cybersecurity concepts.
 ---
 [![](https://visitcount.itsvg.in/api?id=Z3yphr&icon=0&color=6)](https://visitcount.itsvg.in)
 
+Please note many of my projects are private due to some having small portions of their content being intellectual property of Purdue University, but can be shared or demonstrated upon request.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
