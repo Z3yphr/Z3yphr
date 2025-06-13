@@ -1,7 +1,17 @@
+<pre>
+__________________               .__            
+\____    /\_____  \___.__.______ |  |_________  
+  /     /   _(__  <   |  |\____ \|  |  \_  __ \ 
+ /     /_  /       \___  ||  |_> >   Y  \  | \/ 
+/_______ \/______  / ____||   __/|___|  /__|    
+        \/       \/\/     |__|        \/        
+</pre>
+
+
 # 💫 About Me:
-Computer Science undergraduate with experience in software development, web interfaces, and problem-solving.
+Aspiring cybersecurity professional with experience in software development, web interfaces, and problem-solving.
 Proficient in C/C++, Java, and full-stack development, with coursework in data structures, computer architecture,
-and cybersecurity concepts.
+and cybersecurity.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/noah-rogers-47ba06290/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Z3yphr/) 
